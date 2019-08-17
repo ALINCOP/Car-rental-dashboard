@@ -1,0 +1,30 @@
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\bin\Debug\rentAcar.exe.config
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\bin\Debug\rentAcar.exe
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\bin\Debug\rentAcar.pdb
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.csprojAssemblyReference.cache
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.Form1.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.Home.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.Modifica.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.Properties.Resources.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.csproj.GenerateResource.cache
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.exe
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.pdb
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.adauga_masina.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.lista_masini.resources
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\bin\Debug\rentAcar.exe.config
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\bin\Debug\rentAcar.exe
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\bin\Debug\rentAcar.pdb
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.csprojAssemblyReference.cache
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.adauga_masina.resources
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.Form1.resources
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.Home.resources
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.lista_masini.resources
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.Modifica.resources
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.Properties.Resources.resources
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.csproj.GenerateResource.cache
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.exe
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\obj\Debug\rentAcar.pdb
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\bin\Debug\Data.mdf
+E:\Facultate\Anul 3\c# Restaurunat\restaurant\restaurant\bin\Debug\Data_log.ldf

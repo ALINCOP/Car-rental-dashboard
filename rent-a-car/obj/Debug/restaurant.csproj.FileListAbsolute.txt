@@ -1,0 +1,14 @@
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\bin\Debug\restaurant.exe.config
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\bin\Debug\restaurant.exe
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\bin\Debug\restaurant.pdb
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\restaurant.csprojAssemblyReference.cache
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\restaurant.csproj.GenerateResource.cache
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\restaurant.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\restaurant.exe
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\restaurant.pdb
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.adauga_meniu.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.Form1.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.Home.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.lista_meniuri.resources
+D:\Facultate\Anul 3\C# Medii vizuale de programare\Proiecte\restaurant\restaurant\obj\Debug\rentAcar.Modifica.resources
